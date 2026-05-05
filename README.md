@@ -2,74 +2,77 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+YFRCG!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2400&pause=1000&color=00F5A0&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+YFRCG!;Building+Agent+Systems.;Local-first.+Tool-aware.+Reliable." />
 
 <p>
   <b>Computer Science & Technology @ Nankai University</b>
 </p>
 
 <p>
-  Exploring Agent Systems, MCP, Local-first Memory, and Reliable Engineering.
+  Agent Runtime · MCP · Local-first Memory · Systems Engineering
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Nankai_University-6D28D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Science-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agent_Systems-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-DB2777?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building-00F5A0?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Focus-Agent_Runtime-7C3AED?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Mode-Verify_First-38BDF8?style=for-the-badge&labelColor=0B1020" />
 </p>
 
 </div>
 
 ---
 
-## About Me
+## `whoami`
 
-I am an undergraduate student in **Computer Science and Technology at Nankai University**.
-
-My work is centered on building practical AI systems — especially **agent runtimes, MCP tools, gateway workflows, local-first memory, and secure automation**.
-
-> I like systems that can be built, tested, explained, and improved.
-
----
-
-## What I'm Building
-
-- **Agent Runtime** — tool loops, memory, and execution workflows  
-- **MCP Services** — project discovery and structured tool integration  
-- **Systems Engineering** — performance optimization, verification, and reliability  
-
----
-
-## Focus Map
-
-```mermaid
-mindmap
-  root((YFRCG))
-    Agent Systems
-      Runtime
-      Tool Loop
-      Multi-Agent
-    MCP
-      Tools
-      Integration
-      Workflows
-    Local-first Memory
-      Markdown
-      SQLite
-      Hybrid Search
-    Systems
-      Performance
-      Security
-      Reliability
+```txt
+YFRCG
+├─ Student: Computer Science and Technology, Nankai University
+├─ Building: local-first agent systems and MCP tools
+├─ Interested in: tool loops, memory, gateway runtimes, security, performance
+└─ Principle: make it runnable, observable, and explainable
 ```
 
 ---
 
-## Motto
+## `current_process`
 
-```text
-Learn deeply. Build concretely. Verify relentlessly.
+```mermaid
+flowchart LR
+    A[Idea] --> B[Prototype]
+    B --> C[Tool Loop]
+    C --> D[Memory]
+    D --> E[Verification]
+    E --> F[Reliable Agent System]
+
+    style A fill:#0B1020,stroke:#00F5A0,color:#E5E7EB
+    style B fill:#0B1020,stroke:#38BDF8,color:#E5E7EB
+    style C fill:#0B1020,stroke:#7C3AED,color:#E5E7EB
+    style D fill:#0B1020,stroke:#F472B6,color:#E5E7EB
+    style E fill:#0B1020,stroke:#FACC15,color:#E5E7EB
+    style F fill:#0B1020,stroke:#00F5A0,color:#E5E7EB
+```
+
+---
+
+## `focus`
+
+```txt
+> agent runtime
+> mcp services
+> gateway protocols
+> local-first memory
+> multi-agent workflows
+> sandboxing & audit logs
+> performance engineering
+```
+
+---
+
+## `belief`
+
+```txt
+A good agent should not only answer.
+It should remember, use tools, verify results, and leave traces.
 ```
 
 ---
