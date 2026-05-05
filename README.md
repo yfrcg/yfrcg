@@ -1,4 +1,8 @@
-# Hi, I'm YFRCG. 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+YFRCG." />
+
+</div>
 
 > **Building agent systems that remember, use tools, verify results, and leave traces.**
 
