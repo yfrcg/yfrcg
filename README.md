@@ -1,86 +1,34 @@
-<!-- Profile README for yfrcg -->
+# Hi, I'm YFRCG. 
 
-<div align="center">
+> **Building agent systems that remember, use tools, verify results, and leave traces.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2400&pause=1000&color=00F5A0&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+YFRCG!;Building+Agent+Systems.;Local-first.+Tool-aware.+Reliable." />
+I am a Computer Science and Technology undergraduate at Nankai University. I focus on the underlying infrastructure of AI—transforming complex theoretical concepts into runnable, verifiable, and reproducible engineering systems. 
 
-<p>
-  <b>Computer Science & Technology @ Nankai University</b>
-</p>
-
-<p>
-  Agent Runtime · MCP · Local-first Memory · Systems Engineering
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Building-00F5A0?style=for-the-badge&labelColor=0B1020" />
-  <img src="https://img.shields.io/badge/Focus-Agent_Runtime-7C3AED?style=for-the-badge&labelColor=0B1020" />
-  <img src="https://img.shields.io/badge/Mode-Verify_First-38BDF8?style=for-the-badge&labelColor=0B1020" />
-</p>
-
-</div>
+Instead of just prompting LLMs, I build the architectures that make them work reliably locally.
 
 ---
 
-## `whoami`
+### 🏗️ Current Focus
 
-```txt
-YFRCG
-├─ Student: Computer Science and Technology, Nankai University
-├─ Building: local-first agent systems and MCP tools
-├─ Interested in: tool loops, memory, gateway runtimes, security, performance
-└─ Principle: make it runnable, observable, and explainable
-```
+My work primarily revolves around **AI Agent Infra** and **Local-first Systems**. I am currently exploring and building:
 
----
+* **Agent Runtime:** Gateway daemon processes, Tool Loops, and Session Management.
+* **Tool Ecosystems:** Implementation and expansion of the Model Context Protocol (MCP).
+* **Local-first Memory:** RAG architectures utilizing Hybrid Search, Vector Search, and SQLite.
+* **Reliability & Security:** Sandboxing, Audit Logs, and Multi-Agent verification systems.
 
-## `current_process`
+### ⚙️ Engineering Philosophy
 
-```mermaid
-flowchart LR
-    A[Idea] --> B[Prototype]
-    B --> C[Tool Loop]
-    C --> D[Memory]
-    D --> E[Verification]
-    E --> F[Reliable Agent System]
+> *"先跑通，再优化；先验证，再总结；先形成作品，再打磨表达。"*
 
-    style A fill:#0B1020,stroke:#00F5A0,color:#E5E7EB
-    style B fill:#0B1020,stroke:#38BDF8,color:#E5E7EB
-    style C fill:#0B1020,stroke:#7C3AED,color:#E5E7EB
-    style D fill:#0B1020,stroke:#F472B6,color:#E5E7EB
-    style E fill:#0B1020,stroke:#FACC15,color:#E5E7EB
-    style F fill:#0B1020,stroke:#00F5A0,color:#E5E7EB
-```
+I believe in task-driven development. Whether I'm designing a multi-agent architecture, optimizing SIMD instructions, or working on FPGA experiments, my goal is always to deliver a complete, testable system rather than just a conceptual demo.
+
+### 🛠️ Tech Stack & Architecture
+
+* **Core:** AI Agent, MCP, OpenClaw-inspired Runtime, Gateway
+* **Data & Search:** Local-first Memory, RAG, SQLite, BM25
+* **Systems:** Performance Engineering, SIMD, FPGA
+* **Practices:** Security Audit, Multi-Agent Collaboration, Technical Writing
 
 ---
-
-## `focus`
-
-```txt
-> agent runtime
-> mcp services
-> gateway protocols
-> local-first memory
-> multi-agent workflows
-> sandboxing & audit logs
-> performance engineering
-```
-
----
-
-## `belief`
-
-```txt
-A good agent should not only answer.
-It should remember, use tools, verify results, and leave traces.
-```
-
----
-
-<div align="center">
-
-<a href="https://github.com/yfrcg">
-  <img src="https://img.shields.io/badge/GitHub-yfrcg-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
+*Feel free to explore my repositories below to see how these concepts are implemented in code.*
