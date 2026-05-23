@@ -4,6 +4,20 @@
 
 </div>
 
+<div align="center">
+
+### 👋 Yushi Wu / YFRCG
+
+**Computer Science and Technology Undergraduate at Nankai University**  
+
+📧 **Email:** `2411080@mail.nankai.edu.cn`  
+🏫 **Affiliation:** Nankai University  
+🔗 **GitHub:** [github.com/yfrcg](https://github.com/yfrcg)
+
+</div>
+
+---
+
 > **Building agent systems that remember, use tools, verify results, and leave traces.**
 
 I am a Computer Science and Technology undergraduate at Nankai University. I focus on the underlying infrastructure of AI—transforming complex theoretical concepts into runnable, verifiable, and reproducible engineering systems. 
@@ -35,4 +49,5 @@ I believe in task-driven development. Whether I'm designing a multi-agent archit
 * **Practices:** Security Audit, Multi-Agent Collaboration, Technical Writing
 
 ---
+
 *Feel free to explore my repositories below to see how these concepts are implemented in code.*
