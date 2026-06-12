@@ -12,7 +12,7 @@
 
 📧 **Email:** `2411080@mail.nankai.edu.cn`  
 🏫 **Affiliation:** Nankai University  
-🔗 **GitHub:** [github.com/yfrcg](https://github.com/yfrcg)
+🔗 **GitHub:** (https://yfrcg.github.io/)
 
 </div>
 
